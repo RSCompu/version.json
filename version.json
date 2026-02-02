@@ -1,7 +1,8 @@
 {
     "version": "R1.0.0.2",
     "url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0.2/update.zip",
-    "changelog": "1. Fixed update restart logic.\n2. Improved UI responsiveness.\n3. Added new supported chips."
+    "changelog": "1. Fixed update restart logic.\n2. Improved UI responsiveness.\n3. Added new supported chips.\n4. Added new UI UX UPDATE & UPGRADE."
 }
+
 
 
