@@ -1,8 +1,9 @@
 {
-    "version": "R1.0.0.2",
+    "version": "R1.0.0.3",
     "url": "https://raw.githubusercontent.com/RSCompu/version.json/refs/heads/main/update.zip",
     "changelog": "1. Fixed update restart logic.\n2. Improved UI responsiveness.\n3. Added new supported chips.\n4. Added new UI UX UPDATE & UPGRADE."
 }
+
 
 
 
