@@ -1,8 +1,9 @@
 {
     "version": "R1.0.0.4",
-    "url": "https://raw.githubusercontent.com/RSCompu/version.json/refs/heads/main/update.zip",
+    "url": "https://drive.usercontent.google.com/download?id=1RsIfpTnbWv-lLDzJLWrZlAvRxkbFAu5B&export=download&authuser=0&confirm=t&uuid=774bbab1-c86c-4ba6-9f25-566805bba421&at=APcXIO2fm-4_wCPWFeIOAcVXTd90%3A1771321838849",
     "changelog": "1. Fixed update restart logic.\n2. Improved UI responsiveness.\n3. Added new supported chips.\n4. Added new UI UX UPDATE & UPGRADE."
 }
+
 
 
 
